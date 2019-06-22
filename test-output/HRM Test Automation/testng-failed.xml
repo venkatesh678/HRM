@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [HRM Test Automation]">
+  <test name="HRM Test cases(failed)">
+    <classes>
+      <class name="com.orange.qa.testcases.HomepageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="clickonPimpage"/>
+        </methods>
+      </class> <!-- com.orange.qa.testcases.HomepageTest -->
+    </classes>
+  </test> <!-- HRM Test cases(failed) -->
+</suite> <!-- Failed suite [HRM Test Automation] -->

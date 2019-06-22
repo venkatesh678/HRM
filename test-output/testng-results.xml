@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HRM Test Automation" duration-ms="32664" started-at="2019-06-22T09:14:51Z" finished-at="2019-06-22T09:15:24Z">
+    <groups>
+    </groups>
+    <test name="HRM Test cases" duration-ms="32664" started-at="2019-06-22T09:14:51Z" finished-at="2019-06-22T09:15:24Z">
+      <class name="com.orange.qa.testcases.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="setup" is-config="true" duration-ms="13775" started-at="2019-06-22T14:44:51Z" finished-at="2019-06-22T14:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifylogo()[pri:1, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="verifylogo" duration-ms="158" started-at="2019-06-22T14:45:05Z" finished-at="2019-06-22T14:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="teardown" is-config="true" duration-ms="798" started-at="2019-06-22T14:45:05Z" finished-at="2019-06-22T14:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="setup" is-config="true" duration-ms="11901" started-at="2019-06-22T14:45:06Z" finished-at="2019-06-22T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickonPimpage()[pri:2, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="clickonPimpage" duration-ms="5155" started-at="2019-06-22T14:45:18Z" finished-at="2019-06-22T14:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonPimpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orange.qa.testcases.HomepageTest@23d2a7e8]" name="teardown" is-config="true" duration-ms="831" started-at="2019-06-22T14:45:23Z" finished-at="2019-06-22T14:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.orange.qa.testcases.HomepageTest -->
+    </test> <!-- HRM Test cases -->
+  </suite> <!-- HRM Test Automation -->
+</testng-results>
