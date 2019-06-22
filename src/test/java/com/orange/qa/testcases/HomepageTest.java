@@ -30,6 +30,7 @@ public class HomepageTest extends TestBase{
  	//homepage.Validatelogo();
  	System.out.println("Validated Adminlinktext: " +homepage.ValidateAdmin());
  	//homepage.ValidateAdmin();
+ 	homepage.Validateleaveimage();
 		
 	}
 	@Test(priority=2)
